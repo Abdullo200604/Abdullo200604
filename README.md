@@ -14,7 +14,7 @@ I’m open to working on **innovative mobile applications**, **chatbot projects*
 
 ## 📫 How to Reach Me  
 - **Email:** lwcardinal12@gmail.com  
-- **Telegram:** [@YourTelegramHandle] (if you have one) 
+- **Telegram:** [@CodeCapricorn](https://t.me/Abdullo200604)
 
 ## 😄 Pronouns  
 He/Him  
