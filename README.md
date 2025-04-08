@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdulloh Arslonov (@Abdullo200604)  
+# 👋 Hi, I'm Abdulloh Arslonov Mr_Abdulloh  
 
 ## 👀 Interests  
 I’m passionate about **cross-platform mobile app development**, especially using **Flutter** and **React Native**. I also enjoy exploring **AI-powered chatbots**, web development, and automation.  
@@ -14,7 +14,7 @@ I’m open to working on **innovative mobile applications**, **chatbot projects*
 
 ## 📫 How to Reach Me  
 - **Email:** lwcardinal12@gmail.com  
-- **Telegram:** [@CodeCapricorn](https://t.me/Abdullo200604)
+- **Telegram:** [@CodeCapricorn](https://t.me/ArslonovAbdulloh)
 
 ## 😄 Pronouns  
 He/Him  
