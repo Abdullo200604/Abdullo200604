@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00F5FF&center=true&vCenter=true&width=1080&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulloh+Arslonov;Flutter+%2B+React+Native+Dev+%F0%9F%93%B1;AI+Chatbot+Creator+%F0%9F%A4%96;Backend+%26+Automation+Guru+%F0%9F%92%BB" alt="Typing SVG" /> </p> <h3 align="center">🚀 Passionate about Crafting Smart Cross-Platform Apps & AI-Powered Chatbots 🌍🇺🇿</h3> <p align="center"> <a href="https://t.me/ArslonovAbdulloh"> <img src="https://img.shields.io/badge/Telegram-%40CodeCapricorn-26A5E4?style=for-the-badge&logo=telegram" /> </a> <a href="mailto:lwcardinal12@gmail.com"> <img src="https://img.shields.io/badge/Gmail-lwcardinal12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="480" alt="Coding GIF"> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00F5FF&center=true&vCenter=true&width=1080&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulloh+Arslonov;Flutter+%2B+React+Native+Dev+%F0%9F%93%B1;AI+Chatbot+Creator+%F0%9F%A4%96;Backend+%26+Automation+Guru+%F0%9F%92%BB" alt="Typing SVG" /> </p> <h3 align="center">🚀 Passionate about Crafting Smart Cross-Platform Apps & AI-Powered Chatbots 🌍🇺🇿</h3> <p align="center"> <a href="https://t.me/Mr_FoxDev"> <img src="https://img.shields.io/badge/Telegram-%40CodeCapricorn-26A5E4?style=for-the-badge&logo=telegram" /> </a> <a href="mailto:lwcardinal12@gmail.com"> <img src="https://img.shields.io/badge/Gmail-lwcardinal12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <p align="center"> <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="480" alt="Coding GIF"> </p>
 🔍 Interests & Passions
 📱 Cross-platform Development: Flutter & React Native
 
@@ -30,7 +30,7 @@
 📩 Connect with Me
 📧 Email: lwcardinal12@gmail.com
 
-💬 Telegram: @CodeCapricorn
+💬 Telegram: @Mr_FoxDev
 
 🛠️ Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=flutter,dart,react,native,python,nodejs,express,fastapi,sqlite,postgres,js,html,css,figma,git,github,linux,vscode,vercel&perline=9" /> </p>
